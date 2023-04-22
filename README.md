@@ -14,6 +14,6 @@ Save both of these for the next phase
 
 Cloning the AutoGPT
 
-''git clone git@github.com:Significant-Gravitas/Auto-GPT.git
+''git clone git@github.com:Significant-Gravitas/Auto-GPT.git''
 
 finding out from the documentation tha Main Branch could be broken. That means that i need to checkout the exact version with Git I can do it
