@@ -7,3 +7,4 @@ It seems that I need my own Google Custom Search Engine and API key. You need a 
 
 https://programmablesearchengine.google.com/controlpanel/all
 
+And you can get cx code from your custom search engine url after this ![image](https://user-images.githubusercontent.com/6028261/233764239-e7d45f47-7f40-4186-9e5b-7e0cd2b37a05.png)
