@@ -12,8 +12,15 @@ You can also create the API key in this same service
 
 Save both of these for the next phase
 
-Cloning the AutoGPT
+Cloning the AutoGPT command line
 
 ```git clone git@github.com:Significant-Gravitas/Auto-GPT.git```
 
-finding out from the documentation tha Main Branch could be broken. That means that i need to checkout the exact version with Git I can do it
+finding out from the documentation tha Main Branch could be broken. That means that i need to checkout the exact version with Git I can do it with
+ ```git checkout versionumber ```
+ 
+ But Then i looked they repo and there is the stable Branch. So I went the folder and put
+ 
+ ```git switch stable```
+ 
+ 
